@@ -1,0 +1,38 @@
+{
+    "TC POC":{
+        "default":{
+            "Home Page Load Time":{
+                "start_sensitivity":0.835,
+                "end_sensitivity":0.975
+        
+            }
+        }
+    },
+    "TC002":{
+        "default":{
+            "Home Page Load Time":{
+                "start_sensitivity":0.835,
+                "end_sensitivity":0.975
+        
+            }
+        }
+    },
+    "TC003":{
+        "default":{
+            "Home Page Load Time":{
+                "start_sensitivity":0.835,
+                "end_sensitivity":0.975
+
+            }
+        }
+    },
+    "TC004":{
+        "default":{
+            "Home Page Load Time":{
+                "start_sensitivity":0.835,
+                "end_sensitivity":0.975
+        
+            }
+        }
+    }
+}
